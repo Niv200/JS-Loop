@@ -36,4 +36,5 @@ if(thirdNumber > secondNumber){
         }
     }
 }
+
 alert(sort);
