@@ -1,4 +1,4 @@
-alert("hello");
+alert("Question 1");
 let firstNumber = prompt("First number");
 let secondNumber = prompt("Second number");
 
