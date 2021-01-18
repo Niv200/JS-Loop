@@ -3,7 +3,7 @@ let number = 1;
 for(count = 0; count < 5; count){
     if(isHappy(number)){
         count++;
-        alert(number + " is a happy number!");
+        alert(number + " is a happy number!", number);
     }
     number++;
 }
